@@ -10,3 +10,8 @@ CAT CS Circle Tasks Solutions.
 | MAX AND | [HackerEarth](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/max-and-f1fbe59d/) | [C++](https://github.com/GalalMohammed/CAT_Reloaded_Computer_Science_Circle_Tasks/blob/main/Bit_Manipulation/Practice/maxAnd.cpp) |
 | Gray Code | [LeetCode](https://leetcode.com/problems/gray-code/description/) | [C++](https://github.com/GalalMohammed/CAT_Reloaded_Computer_Science_Circle_Tasks/blob/main/Bit_Manipulation/Medium_Difficulty/grayCode.cpp) |
 | Range Bitwise And | [LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C++](https://github.com/GalalMohammed/CAT_Reloaded_Computer_Science_Circle_Tasks/blob/main/Bit_Manipulation/Medium_Difficulty/rangeBitwiseAnd.cpp) |
+
+## Sliding Window
+| Problem | Problem Link | Solution |
+|:-------:|:------------:|:--------:|
+| Summary Power | [CodeChef](https://www.codechef.com/problems/SUMPOWER) | [C++](https://github.com/GalalMohammed/CAT_Reloaded_Computer_Science_Circle_Tasks/blob/main/Sliding_Window/Practice/SUM_Power.cpp) |
